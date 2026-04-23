@@ -22,10 +22,13 @@ A base do sucesso deste dashboard reside na sua arquitetura de dados. Em vez de 
     * `dRevenda`: Detalhamento dos pontos de venda.
 * **Organização de Medidas:** Todas as fórmulas DAX foram centralizadas em uma pasta específica para facilitar a manutenção e leitura do projeto.
 
-> ![Estrutura do Modelo](2-star-schema.png)
+> ![Estrutura do Modelo](3_imagens/2-star-schema.png)
 > *Detalhamento das tabelas de dimensões, medidas organizadas e relacionamentos do projeto.*
 
 ---
+## 🔗 Acesso ao Dashboard
+👉 **[Clique aqui para acessar o Dashboard no Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiYzUyMTRkOWMtZTNhYy00NmYzLTg3NjAtMmVhZDhlNWI5OTk0IiwidCI6ImIxZjQxMDEzLWU0NDUtNGIzNS1hNzA4LTA2YTk5ZTZjZWQ2ZSJ9)**
+
 
 ## ⚙️ Processo de Desenvolvimento (ETL)
 
@@ -47,7 +50,7 @@ O tratamento dos dados foi realizado inteiramente via **Power Query**, focando e
 
 ## 🖼️ Visualização do Dashboard
 
-> ![Painel Principal](1-analise-combustiveis.png)
+> ![Painel Principal](3_imagens/1-analise-combustiveis.png)
 > *Interface final com filtros dinâmicos, KPIs de média e análise de tendência por dia e mês.*
 
 ---
